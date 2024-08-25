@@ -11,4 +11,4 @@ COPY . .
 RUN g++ -o main main.cpp
 
 # Run the executable
-CMD ["./hello"]
+CMD ["./main"]
