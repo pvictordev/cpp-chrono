@@ -2,7 +2,7 @@
 FROM gcc:latest
 
 # Set the working directory inside the container
-WORKDIR /
+WORKDIR /app
 
 # Copy the current directory contents into the container at /usr/src/myapp
 COPY . .

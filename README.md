@@ -1,6 +1,6 @@
-# C++ Algoritms
+# C++ Algorithms
 
-Repository containing common algorithms implemented in C++. The application is built and run inside a Docker container, as I preferred not to install a C++ compiler on my local machine.
+This repository contains common algorithms implemented in C++. The application is built and run inside a Docker container, as I preferred not to install a C++ compiler on my local machine.
 
 ## How to run
 
